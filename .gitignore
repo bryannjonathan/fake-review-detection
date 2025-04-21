@@ -5,5 +5,8 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+# venv
+eie3280/
+
 # Data
 fake_reviews_dataset.csv
